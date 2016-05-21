@@ -1,0 +1,31 @@
+h1 {
+
+    color: #7F8FD4;
+    font-family: 'Lobster';
+
+}
+
+h2 {
+
+    color: 8EDEA7;
+}
+
+body {
+
+    padding-left: 15px;
+}
+
+.page-header {
+
+    background-color: DCE8D5;
+    padding: 20px 20px 20px 40px;
+
+
+}
+
+.post {
+
+    margin-top: 15;
+    font-size: 16pt;
+
+}
